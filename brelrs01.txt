@@ -1,0 +1,14 @@
+brelrs01
+
+0. ExpressLRS Configurator v1.6.1
+1. Firmware version : 3.3.1
+2. device category : Frsky 900 MHz
+3. devce : FrSky R9M Lite Pro 900MHz TX
+4. Flashing Method : STLink
+5. device option - manual mode
+   <user_defines.txt>
+-DMY_BINDING_PHRASE="brelrs01"
+-DRegulatory_Domain_FCC_915
+-DTLM_REPORT_INTERVAL_MS="240LU"
+-DUART_INVERTED
+
